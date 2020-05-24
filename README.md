@@ -46,7 +46,7 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 ![hw](Images/hw02.png)
 
-## Advanced Challenge Assignment (Optional)
+## Advanced Challenge Assignment
 
 The following task is advanced and therefore optional.
 
@@ -61,12 +61,6 @@ The following task is advanced and therefore optional.
 ## Deployment
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
-
-## Hints
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
 ### About the Data
 
